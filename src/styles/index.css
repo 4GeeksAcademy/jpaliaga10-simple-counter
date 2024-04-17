@@ -1,4 +1,19 @@
+.bigCounter {
+    text-align: center;
+    background: black;
+    height: 120px;
+}
 
+.bigCounter div {
+    display: inline-block;
+    font-size: 60px;
+    line-height: 60px;
+    height: 20px;
+    background: #101010;
+    color: white;
+    padding: 10px; 
+    margin: 3px;   
+}
 /* 
 
     You can write your own styles here...
